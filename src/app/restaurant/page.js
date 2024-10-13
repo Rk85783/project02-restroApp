@@ -8,6 +8,7 @@ import RestaurantHeader from "../_components/RestaurantHeader";
 import RestaurantFooter from "../_components/RestaurantFooter";
 const Restaurant = () => {
   const [login, setLogin] = useState(true);
+
   return (
     <>
       <div className="container">

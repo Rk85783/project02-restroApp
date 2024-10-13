@@ -4,14 +4,14 @@ const RestaurantLogin = () => {
       <h3 className="">Login</h3>
       <div className="input-wrapper">
         <input
-          type="text"
+          type="email"
           placeholder="Enter email id"
           className="input-field"
         />
       </div>
       <div className="input-wrapper">
         <input
-          type="text"
+          type="password"
           placeholder="Enter password"
           className="input-field"
         />
